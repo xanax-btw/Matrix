@@ -2,8 +2,6 @@ Matrix Rain
 
 A fullscreen Matrix-style digital rain effect written in Python + Pygame.
 
-Perfect for harmless pranks on friends.
-
 Features
 
 - True fullscreen mode
